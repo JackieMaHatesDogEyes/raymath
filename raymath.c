@@ -1,2 +1,2 @@
-#define RAYMATH_STATIC_INLINE
+#define RAYMATH_IMPLEMENTATION
 #include "raymath.h"
